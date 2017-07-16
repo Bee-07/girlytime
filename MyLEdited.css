@@ -1,7 +1,6 @@
 #alerts>div[style]{
  background-color: #99CC99!important;
  color: #f9f9f9!important;
- text-shadow: 1px 1px 1px #111!important;
  margin-bottom: 3px!important;
  border-radius: 6px;
  }
@@ -180,158 +179,127 @@ a.permission_42,.permission_42{
 a.permission_1,.permission_1{
  color: #3f3;
  font-weight: bold;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_11,.permission_11{
  color: #9f9;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_36,.permission_36{
  color: #6f6;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d
 }
 
 a.permission_37,.permission_37{
  color: #3f3;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_31,.permission_31{
  color: #3f3;
  font-weight: bold;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_14,.permission_14{
  color: #5f5;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_32,.permission_32{
  color: #06F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_26,.permission_26{
  color: #06F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_29,.permission_29{
  color: #06F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_30,.permission_30{
  color: #06F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_34,.permission_34{
  color: #06F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_2,.permission_2{
  color: #F2E9D8;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_3,.permission_3{
  color: #ccc;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_4,.permission_4{
  color: #FF9;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_5,.permission_5{
  color: #FF3;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_24,.permission_24{
  color: #f87431;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_7,.permission_7{
  color: #F30;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_33,.permission_33{
  color: #f0f;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_38,.permission_38{
  color: #93f;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_37,.permission_37{
  color: #93F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_6,.permission_6{
  color: #93F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_9,.permission_9{
  color: #93F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_8,.permission_8{
  color: #96F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_28,.permission_28{
  color: #90C;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_35,.permission_35{
  color: #93F;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_10,.permission_10{
  color: #ff6;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_12,.permission_12{
  color: #c00;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_13,.permission_13{
  color: #966;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_22,.permission_22{
  color: #ff7100;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_25,.permission_25{
  color: #603;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 a.permission_27,.permission_27{
  color: #0fc;
- text-shadow: 0 1px #4d4d4d,1px 0 #4d4d4d;
 }
 
 h1,h2,h3,h4{
@@ -648,7 +616,6 @@ background-color: #F3EAD9;
  list-style-type: none;
  z-index: 1001;
  width: 157px;
- text-shadow: 1px 1px 1px #111;
 
 }
 
@@ -678,7 +645,6 @@ background-color: #F3EAD9;
  list-style-type: none;
  width: 160px;
  z-index: 1001;
- text-shadow: 1px 1px 1px #111;
 }
 
 #userinfo_major li{
