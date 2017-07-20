@@ -31,7 +31,7 @@ a:hover {
 }
 
 .ui-widget-content a:hover {
- color: fuchsia !important;
+ color: #669966 !important;
 }
 
 img[title="Unread"], img[title="UnRead"] {
