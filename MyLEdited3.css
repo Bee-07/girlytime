@@ -9,12 +9,12 @@ a:hover{
  color: #669966!important;
 }
 
-.ui-state-active,.ui-tabs,.ui-tabs-nav li,.ui-tabs-selected,.ui-widget-content,.ui-widget-header,.ui-state-hover,.ui-state-focus{
- background: url("images/ui-bg_inset-soft_15_121212_1x100.png") repeat-x scroll 50% 50% #E9DFC4!important;
+.ui-state-active,.ui-tabs,.ui-tabs-nav li,.ui-tabs-selected,.ui-widget-header,.ui-state-hover,.ui-state-focus{
+ background: url('https://dl.dropbox.com/s/ouxln0tojvddvhf/back1.jpg') no-repeat scroll #F3EAD9!important;
 }
 
 .ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus{
- background: url("images/ui-bg_inset-soft_15_121212_1x100.png") repeat-x scroll 50% 50% #464646!important;
+ background: url('https://dl.dropbox.com/s/nkv25q04cyywwz7/back3.jpg') no-repeat pink!important;
 }
 
 .ui-menu .ui-menu-item{
