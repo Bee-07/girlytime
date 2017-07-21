@@ -1,12 +1,12 @@
 #alerts>div[style]{
  background-color: #99CC99!important;
- color: #f9f9f9!important;
+ color: #336633!important;
  margin-bottom: 3px!important;
  border-radius: 6px;
  }
 
 a:hover{
- color: #336633!important;
+ color: #f9f9f9!important;
 }
 .ui-state-active,.ui-tabs,.ui-tabs-nav li,.ui-tabs-selected,.ui-widget-header,.ui-state-hover,.ui-state-focus{
  background: url('https://dl.dropbox.com/s/ouxln0tojvddvhf/back1.jpg') no-repeat scroll #F3EAD9!important;
